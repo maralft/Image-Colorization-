@@ -1,1 +1,2 @@
-# Image-Colorization
+<!--<h3><b>Colorful Image Colorization</b></h3>-->
+The Color Detection using KNN Classifier project employs the K-Nearest Neighbors (KNN) algorithm to identify and classify colors within images. By extracting color histogram features from images, the KNN classifier is trained to recognize various colors accurately. This approach demonstrates the practical application of machine learning techniques in color recognition tasks.
